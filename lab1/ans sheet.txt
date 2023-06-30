@@ -1,0 +1,30 @@
+Part 1) Data Set Information and Attribute Information:
+1.1) What are the meta data for the given data? please list all
+    >
+        1.year
+        2.rank_display
+        3.university
+        4.score
+        5.link
+        6.country
+        7.city
+        8.region
+        9.logo
+1.2) List all the data type of each attribute.
+    >
+        1.int 
+        2.int 
+        3.string 
+        4.int 
+        5.string 
+        6.string 
+        7.string
+        8.string 
+        9.string 
+ [Extra credit] What problem have you found when you are dealing with the tradition database
+ files? Explain in detail?
+    >
+        1.lack of management ( the data is hard to find or search through and data can be misarranged or duplicated )
+        2.lack of sharing usage potential ( information cannot be access from afar by many different users )
+        3.lack of security ( anyone can possibly access my file by snuggling in or breaking in )
+        4.can be easily destroyed ( file is kept physically so if the place that stored data has an incident file might be gone with it )
